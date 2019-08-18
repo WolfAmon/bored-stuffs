@@ -1,0 +1,4 @@
+# Created by https://www.gitignore.io/api/python
+### Python ###
+__pycache__/
+*.zip
