@@ -2,3 +2,7 @@
 ### Python ###
 __pycache__/
 *.zip
+
+#Files auto generated
+Chapter 17 - Manipulating images/transparentImage.png
+Chapter 17 - Manipulating images/purpleImage.png
